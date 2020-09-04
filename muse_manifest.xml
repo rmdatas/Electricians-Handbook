@@ -1,0 +1,30 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="electricianshandbook.com" resolutions="1x" timestamp="1599251758098">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="data-and-audio-visual.css" crc="58371178" ref="data-and-audio-visual"/>
+    <file name="index.css" crc="4064023326" ref="index"/>
+    <file name="electrical.css" crc="58371178" ref="electrical"/>
+    <file name="switchboards.css" crc="58371178" ref="switchboards"/>
+    <file name="security.css" crc="58371178" ref="security"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="museutils.js" crc="4232573551" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="whatinput.js" crc="86476730" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+    <file name="require.js" crc="4234670167" ref="index:electrical:data-and-audio-visual:switchboards:security"/>
+  </folder>
+  <folder name="images">
+    <file name="eh-white-crop-u94.png" crc="4030970913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="427117481" seo="true" mt="1599251421524" redirect="true"/>
+  <file name="electrical.html" crc="4031780296" seo="true" mt="1599251351290" redirect="false"/>
+  <file name="data-and-audio-visual.html" crc="4267982191" seo="true" mt="1599251364093" redirect="false"/>
+  <file name="switchboards.html" crc="3921537195" seo="true" mt="1599251374188" redirect="false"/>
+  <file name="security.html" crc="170404455" seo="true" mt="1599251378684" redirect="false"/>
+</manifest>

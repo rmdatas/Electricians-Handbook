@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://electricianshandbook.com/index.html</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://electricianshandbook.com/images/eh-white-crop-u94.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://electricianshandbook.com/electrical.html</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://electricianshandbook.com/data-and-audio-visual.html</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://electricianshandbook.com/switchboards.html</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://electricianshandbook.com/security.html</loc>
+    <lastmod>2020-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
